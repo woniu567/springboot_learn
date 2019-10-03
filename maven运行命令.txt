@@ -1,0 +1,3 @@
+mvn archetype:generate -DgroupId=imooc-arthur -DartifactId=spring-mvc-study -DarchetypeArtifactId=maven-archetype-webapp
+
+mvn archetype:generate -DgroupId=cn.rivamed -DartifactId=spring-mvc-maven -DarchetypeArtifactId=maven-archetype-webapp
